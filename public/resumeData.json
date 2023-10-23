@@ -1,0 +1,59 @@
+{
+  "main": {
+    "image": "profilepic.jpg",
+    "bio": " I am highly skilled and experienced React developer with a passion for creating engaging and responsive user interfaces. With a background in web development and a strong proficiency in JavaScript",
+    "contactmessage": "Get in touch with me",
+    "email": "satsangiutkarsh@gmail.com",
+    "address": {
+      "street": "",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zip": "201304"
+    },
+    "resumedownload": "https://pdfhost.io/v/astRCdKUY_Utkarsh_satsangi_cv2023",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/utkarsh-satsangi-84232510a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/satsangi0411/portfolio-site",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "",
+        "degree": "Bachelor's Degree,Btech",
+        "graduated": "2014-18",
+        "description": "Graduated "
+      }
+    ],
+    "work": [
+       {
+        "company": "Netad 6-Dee",
+        "title": "Frontend Devloper",
+        "years": "september 2021 - Present",
+         "description": "Currently at netad, I focus on creating valuable  using ReactJS, TypeScript, and plain JavaScript to ensure smooth performance. I've also designed a user-friendly and secure dashboard displaying data through graphs and tables for clients. My approach includes using Next.js.react js  and JavaScript."
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "name": "other projects",
+        "title": "utkarsh",
+        "category": "",
+        "image": "github.png",
+        "url": "https://github.com/satsangi0411/portfolio-site"
+      }
+    ]
+  }
+  
+}
