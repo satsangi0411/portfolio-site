@@ -4,20 +4,15 @@ import python from "../skills/languages/python.svg";
 import javascript from "../skills/languages/javascript.svg";
 import html from "../skills/languages/html.svg";
 import css from "../skills/languages/css.svg";
-import typescript from "../skills/languages/typescript.PNG";
-import graphql from "../skills/languages/graphql.PNG";
 
 
 import reactjs from "../skills/frameworks/reactjs.svg";
 import nodejs from "../skills/frameworks/nodejs.svg";
 import expressjs from "../skills/frameworks/expressjs.svg";
 import nextjs from "../skills/frameworks/nextjs.PNG";
-import antdesign from "../skills/frameworks/antdesign.PNG";
 import materialui from "../skills/frameworks/materialui.PNG";
 
-import linux from "../skills/platforms/linux.svg";
 import heroku from "../skills/platforms/heroku.svg";
-import vercel from "../skills/platforms/vercel.svg";
 import github from "../skills/platforms/github.svg";
 
 import git from "../skills/tools/git.svg";

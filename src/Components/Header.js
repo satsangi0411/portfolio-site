@@ -1,6 +1,5 @@
 import React from "react";
 import TypeWriter from "react-typewriter";
-import hackerrank from "../skills/hackerrank.svg";
 const Header = ({ data }) => {
   if (data) {
     var networks = data.social.map(function (network) {
