@@ -1,5 +1,5 @@
 # Utkarsh Satsangi Portfolio
-My personal portfolio website built with ReactJs.
+My personal portfolio website built with ReactJs and CSS.
 
 
 ### Website Preview
