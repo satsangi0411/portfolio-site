@@ -55,7 +55,7 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>I'm Utkarsh Satsangi</TypeWriter>
+            <TypeWriter typing={0.5}>I'm Utkarsh Satsangi Srivastava</TypeWriter>
           </h1>
           <h3>
             I'm a software engineer and a lifelong learner
